@@ -3,36 +3,42 @@
     {
       "id": 1,
       "titulo": "Camisetas",
+      "categoria": "camisetas",
       "img": "camiseta",
       "alt": "Imagem de uma camisa"
     },
     {
       "id": 2,
       "titulo": "Bolsas",
+      "categoria": "bolsas",
       "img": "Bolsas",
       "alt": "Imagem de uma bolça"
     },
     {
       "id": 3,
       "titulo": "Calçados",
+      "categoria": "calcados",
       "img": "calçados",
       "alt": "Imagem de um par de tênis"
     },
     {
       "id": 4,
       "titulo": "Calças",
+      "categoria": "calcas",
       "img": "calças",
       "alt": "Imagem de uma pilha de calças dobradas"
     },
     {
       "id": 5,
       "titulo": "Casacos",
+      "categoria": "casacos",
       "img": "casacos",
       "alt": "imagem de um casaco de trico"
     },
     {
       "id": 6,
       "titulo": "Óculos",
+      "categoria": "oculos",
       "img": "óculos",
       "alt": "imagem de um oculos de sol"
     }
@@ -43,7 +49,7 @@
       "produto": "Camiseta Conforto",
       "descricao": "Multicores e tamanhos. Tecido de algodão 100%, fresquinho para o verão. Modelagem unissex.",
       "valor": 70,
-      "categoria": "Camisetas",
+      "categoria": "camisetas",
       "img": "camiseta"
     },
     {
@@ -51,7 +57,7 @@
       "produto": "Calça Alfaiataria",
       "descricao": "Modelo Wide Leg alfaiataria em linho. Uma peça pra vida toda!",
       "valor": 180,
-      "categoria": "Bolsas",
+      "categoria": "bolsas",
       "img": "calça"
     },
     {
@@ -59,7 +65,7 @@
       "produto": "Tênis Chunky",
       "descricao": "Snicker casual com solado mais alto e modelagem robusta. Modelo unissex.",
       "valor": 250,
-      "categoria": "Calçados",
+      "categoria": "calcados",
       "img": "tenis"
     },
     {
@@ -67,7 +73,7 @@
       "produto": "Jaqueta Jeans",
       "descricao": "Modelo unissex oversized com gola de camurça. Atemporal e autêntica!",
       "valor": 150,
-      "categoria": "Casacos",
+      "categoria": "casacos",
       "img": "jaqueta jeans"
     },
     {
@@ -75,7 +81,7 @@
       "produto": "Óculos Redondo",
       "descricao": "Armação metálica em grafite com lentes arredondadas. Sem erro!",
       "valor": 120,
-      "categoria": "Óculos",
+      "categoria": "oculos",
       "img": "oculos"
     },
     {
@@ -83,7 +89,7 @@
       "produto": "Bolsa coringa",
       "descricao": "Bolsa camel em couro sintético de alta duração. Ideal para acompanhar você por uma vida!",
       "valor": 120,
-      "categoria": "Bolsas",
+      "categoria": "bolsas",
       "img": "bolsa"
     }
   ]
